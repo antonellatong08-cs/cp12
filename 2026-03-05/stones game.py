@@ -12,3 +12,9 @@ while stones > 0:
         print("player1 wins")
         break
 
+# turn =1
+# while ture :
+#   print("player",turns)
+#   choice = int(input("enter your choice))
+#   choice == 1
+#
